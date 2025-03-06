@@ -33,3 +33,7 @@ deno - node alternatiiv
 
 node modules ei laeta üles githubi, see on githubis olemas, risustame giti
 vaata üle kuidas installida node_modules. npm -i installib vajalikud mooduls
+
+//enne 13.20 viga 06.03.2025 vale faili nimi Xd
+// enne 14:00 viga 06.03.2025 fixed??
+// enne 15.53
